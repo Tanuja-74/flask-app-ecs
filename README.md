@@ -145,7 +145,7 @@ This project proves your knowledge of:
 
 ## 🙌 Author
 
-**Developed by:** Vedant Tambe  
+**Developed by:** Tanuja Kurane 
 **Role:** DevOps Enthusiast  
 
 ---
